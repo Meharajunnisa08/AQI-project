@@ -21,7 +21,7 @@ The data analyzed in this dashboard includes several key air quality components,
 
 **O₃:** Ground-level ozone, which can lead to respiratory issues and exacerbate asthma conditions.
 
-Features of the Dashboard
+**Features of the Dashboard**
 
 **Regional AQI Analysis**: View and compare AQI across different regions in India.
 
